@@ -12,7 +12,7 @@ from urllib.parse import quote_plus
 
 api_id = 2669389
 api_hash = "59f112100d19186dc03cd93fb7f2904a"
-bot_token = "1026408788:AAHVhIKmeboveGZ6x8peMnv0Ts2FvR38b_0"
+bot_token = "5145085896:AAE0qdtWWo0jaD2mGe_OZqcMjbgRlE0m8wA"
 
 bot = Client(
     "withrap",
